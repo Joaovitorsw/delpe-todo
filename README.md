@@ -107,11 +107,11 @@ docker compose up --build
 | :---------------: |
 | `portfolio` |
 | `joaovitorsw` |
-| `fork` |
-| `docker` |
-| `backend` |
 | `todo-app` |
+| `docker` |
+| `docker-compose` |
 | `crud` |
+| `fork` |
 
 </div>
 
