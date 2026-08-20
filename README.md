@@ -34,8 +34,9 @@
 
 <div align="center">
 
-Preview online não informado no repositório.
+Preview visual do projeto:
 
+<kbd><img src=".github/assets/project-cover.png" alt="Preview do projeto"/></kbd>
 
 </div>
   
@@ -45,9 +46,7 @@ Preview online não informado no repositório.
 
 <div align="center">
 
-Projeto de estudo com Docker para praticar containerização, composição de serviços e execução de ambientes locais reproduzíveis.
-
-> Observação: este repositório é um fork mantido para estudo, referência técnica ou evolução experimental.
+Projeto de estudo em fork para praticar execução de uma aplicação de tarefas com Docker e Docker Compose.
 
 ---
 
@@ -85,7 +84,8 @@ Projeto de estudo com Docker para praticar containerização, composição de se
 
 |                     :page_facing_up:                      |
 | :-------------------------------------------------------: |
-| Cadastrar, listar, atualizar e remover tarefas |
+| Executar ambiente de todo app com containers |
+| Praticar composição de serviços com Docker Compose |
 
 </div>
 
